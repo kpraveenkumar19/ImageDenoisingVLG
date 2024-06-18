@@ -71,7 +71,7 @@ The project demonstrates the effectiveness of convolutional autoencoders for ima
 
 ### References
 
-- [Image Denoising Using Deep Learning](#)
-- [Image Denoising Using Deep Learning on Medium](#)
-- [Image Denoising Using Deep Learning on Towards AI](#)
+- [Image Denoising Using Deep Learning](https://vincmazet.github.io/bip/restoration/denoising.html)
+- [Image Denoising Using Deep Learning on Medium](https://medium.com/analytics-vidhya/image-denoising-using-deep-learning-dc2b19a3fd54)
+- [Image Denoising Using Deep Learning on Towards AI](https://towardsai.net/p/deep-learning/image-de-noising-using-deep-learning)
 
