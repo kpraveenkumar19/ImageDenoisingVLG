@@ -3,7 +3,7 @@
 ## Files
 
 - `imagedenoising.ipynb`: Jupyter notebook containing the implementation of the image denoising autoencoder.
-- `autoencoder.h5`: Trained model file for the autoencoder.
+- `autoencoder_model.h5`: Trained model file for the autoencoder.
 - `ImageDenoisingVLG.pdf`: Contains the detailed report.
 
 
